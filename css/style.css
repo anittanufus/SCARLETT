@@ -1,1 +1,8 @@
 .background { background-color: rgb(255, 241, 243);}
+
+p {
+    display: flex;
+    justify-content: center;
+    letter-spacing: 30px;
+    font-size: 300%;
+}
