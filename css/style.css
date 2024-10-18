@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 .background {
     background-color: rgb(255, 241, 243);
 }
@@ -89,13 +89,12 @@
             margin-top: 20px;
         }
     
-=======
+
 .background { background-color: rgb(255, 241, 243);}
 
-p {
+.p {
     display: flex;
     justify-content: center;
     letter-spacing: 30px;
     font-size: 300%;
 }
->>>>>>> d72c6b0f8fd93f29fee9ff8febb5150b9e3eae0f
