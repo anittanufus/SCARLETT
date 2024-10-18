@@ -1,1 +1,90 @@
-.background { background-color: rgb(255, 241, 243);}
+.background {
+    background-color: rgb(255, 241, 243);
+}
+
+.promo {
+    border-radius: 30px;
+    background: rgb(246, 117, 168);
+    background: linear-gradient(90deg, rgba(246, 117, 168, 1) 0%, rgba(205, 117, 191, 1) 35%, rgba(163, 116, 213, 1) 100%);
+}
+.perawatan-badan {
+    margin-top: 1%;
+}
+
+.about-us {
+    margin-top: 10%;
+}
+
+.facial-wash {
+    margin-top: 5%;
+}
+.produk {
+    margin-top: 1%;
+}
+.bundar {
+    margin-top: 5%;
+}
+
+.testt {
+    display: flex;
+    margin-left: 220px !important;
+}
+
+.tentang {
+    margin-top: 5%;
+}
+.footer {
+    margin-top: 5%;
+}
+
+        .body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        .product-header {
+            text-align: center;
+            padding: 20px;
+        }
+        .product-header img {
+            width: 150px;
+        }
+        .product-details {
+            display: flex;
+            justify-content: space-between;
+            padding: 20px;
+            background: #fff;
+            margin-top: 20px;
+        }
+        .product-details img {
+            width: 300px;
+        }
+        .product-info {
+            flex: 1;
+            margin-left: 20px;
+        }
+        .price {
+            font-size: 24px;
+            color: #e74c3c;
+        }
+        .buttons {
+            margin-top: 20px;
+        }
+        .buttons button {
+            padding: 10px 20px;
+            margin-right: 10px;
+            border: none;
+            background: rgb(213, 111, 253);
+            color: #fff;
+            cursor: pointer;
+        }
+        .description {
+            margin-top: 20px;
+        }
+    
